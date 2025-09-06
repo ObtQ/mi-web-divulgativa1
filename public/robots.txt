@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miwebdivulgativa.vercel.app/sitemap.xml
